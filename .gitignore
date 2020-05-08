@@ -1,5 +1,8 @@
 build/doctrees
 
+### MAC ###
+.DS_Store
+
 ### emacs ###
 *~
 \#*\#
